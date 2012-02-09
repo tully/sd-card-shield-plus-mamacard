@@ -1,0 +1,7 @@
+*.tmp
+$savepcb.*
+*-cache.*
+*.000
+*.bak
+*.bck
+*.cache
