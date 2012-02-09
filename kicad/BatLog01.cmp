@@ -1,0 +1,171 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 2/5/2012 3:38:14 AM
+
+BeginCmp
+TimeStamp = /4E8E6C75;
+Reference = C1;
+ValeurCmp = CP1;
+IdModule  = C1.ED;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C76;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EFFD20A;
+Reference = G1;
+ValeurCmp = LOGO;
+IdModule  = Logo-Samurai-Back;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDFCD44;
+Reference = P1;
+ValeurCmp = CONN_11;
+IdModule  = SIL-11;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDFCE20;
+Reference = P2;
+ValeurCmp = SD_&_MMC_2;
+IdModule  = SD-CARD-Haitong;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDB43A9;
+Reference = P4;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C61;
+Reference = P5;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C65;
+Reference = P6;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C64;
+Reference = P7;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C60;
+Reference = P8;
+ValeurCmp = CONN_36;
+IdModule  = card-edge-fingers-R6-tall;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C63;
+Reference = P9;
+ValeurCmp = CONN_6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C62;
+Reference = P10;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDFC455;
+Reference = P11;
+ValeurCmp = I2C;
+IdModule  = Grove-90-R0;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDFC47B;
+Reference = P12;
+ValeurCmp = I2C;
+IdModule  = Grove-90-R0;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C7C;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = R3-1W;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EA571B3;
+Reference = SJ1;
+ValeurCmp = SJ_S_THREE_WAY;
+IdModule  = SJ_S_THREE_WAY;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EA57214;
+Reference = SJ2;
+ValeurCmp = SJ_S_THREE_WAY;
+IdModule  = SJ_S_THREE_WAY;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EA5721B;
+Reference = SJ3;
+ValeurCmp = SJ_S_THREE_WAY;
+IdModule  = SJ_S_THREE_WAY;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C5B;
+Reference = SJ4;
+ValeurCmp = SJ_S_THREE_WAY;
+IdModule  = SJ_S_THREE_WAY;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDFC78B;
+Reference = SJ5;
+ValeurCmp = SJ_S_CUTTABLE;
+IdModule  = SJ_S_CUTTABLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EDFC79D;
+Reference = SJ6;
+ValeurCmp = SJ_S_CUTTABLE;
+IdModule  = SJ_S_CUTTABLE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C77;
+Reference = U1;
+ValeurCmp = MCP1700;
+IdModule  = TO92r;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8E6C85;
+Reference = U2;
+ValeurCmp = 74125N;
+IdModule  = DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /4E8EF566;
+Reference = X1;
+ValeurCmp = ARDUINOSHIELD;
+IdModule  = ARDUINO-SIELD-01;
+EndCmp
+
+EndListe

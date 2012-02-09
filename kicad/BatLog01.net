@@ -1,0 +1,322 @@
+# EESchema Netlist Version 1.1 created  2/5/2012 3:38:14 AM
+(
+ ( /4E8E6C75 C1.ED C1 CP1
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4E8E6C76 C1 C2 C
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4EFFD20A Logo-Samurai-Back G1 LOGO
+ )
+ ( /4EDFCD44 SIL-11 P1 CONN_11
+  ( 1 /DAT2 )
+  ( 2 /CCS-3v3 )
+  ( 3 /MOSI-3v3 )
+  ( 4 /VSS1 )
+  ( 5 +3.3V )
+  ( 6 /SCK-3v3 )
+  ( 7 /VSS2 )
+  ( 8 /MISO-D12 )
+  ( 9 /WP )
+  ( 10 /DAT1 )
+  ( 11 /GP3 )
+ )
+ ( /4EDFCE20 SD-CARD-Haitong P2 SD_&_MMC_2
+  ( 1 /CCS-3v3 )
+  ( 2 /MOSI-3v3 )
+  ( 3 /VSS1 )
+  ( 4 +3.3V )
+  ( 5 /SCK-3v3 )
+  ( 6 /VSS2 )
+  ( 7 /MISO-D12 )
+  ( 8 /DAT1 )
+  ( 9 /DAT2 )
+  ( CD ? )
+  ( GP GND )
+  ( WP5 /WP )
+  ( WP7 /GP3 )
+ )
+ ( /4EDB43A9 SIL-6 P4 CONN_6
+  ( 1 +5V )
+  ( 2 +3.3V )
+  ( 3 /MOSI-D11 )
+  ( 4 /SCK-D13 )
+  ( 5 /CCS-D10 )
+  ( 6 GND )
+ )
+ ( /4E8E6C61 SIL-8 P5 CONN_8
+  ( 1 /D00 )
+  ( 2 /D01 )
+  ( 3 /D02 )
+  ( 4 /D03 )
+  ( 5 /D04 )
+  ( 6 /D05 )
+  ( 7 /D06 )
+  ( 8 /D07 )
+ )
+ ( /4E8E6C65 SIL-6 P6 CONN_6
+  ( 1 /D08 )
+  ( 2 /D09 )
+  ( 3 /CCS-D10 )
+  ( 4 /MOSI-D11 )
+  ( 5 /MISO-D12 )
+  ( 6 /SCK-D13 )
+ )
+ ( /4E8E6C64 SIL-6 P7 CONN_6
+  ( 1 +5V )
+  ( 2 GND )
+  ( 3 /RESET )
+  ( 4 /V_IN )
+  ( 5 /AREF )
+  ( 6 /3V3 )
+ )
+ ( /4E8E6C60 card-edge-fingers-R6-tall P8 CONN_36
+  ( 1 +5V )
+  ( 2 /D00 )
+  ( 3 /D01 )
+  ( 4 /D02 )
+  ( 5 /D03 )
+  ( 6 /D04 )
+  ( 7 /D05 )
+  ( 8 GND )
+  ( 9 /D06 )
+  ( 10 /D07 )
+  ( 11 /D08 )
+  ( 12 /D09 )
+  ( 13 /CCS-D10 )
+  ( 14 /MOSI-D11 )
+  ( 15 /MISO-D12 )
+  ( 16 /SCK-D13 )
+  ( 17 /RESET )
+  ( 18 /V_IN )
+  ( 19 /AREF )
+  ( 20 /3V3 )
+  ( 21 /A00 )
+  ( 22 /A01 )
+  ( 23 /A02 )
+  ( 24 /A03 )
+  ( 25 /A04 )
+  ( 26 /A05 )
+  ( 27 /F00 )
+  ( 28 /F01 )
+  ( 29 GND )
+  ( 30 /F02 )
+  ( 31 /F03 )
+  ( 32 /F04 )
+  ( 33 /F05 )
+  ( 34 /F06 )
+  ( 35 /F07 )
+  ( 36 +5V )
+ )
+ ( /4E8E6C63 SIL-6 P9 CONN_6
+  ( 1 /A00 )
+  ( 2 /A01 )
+  ( 3 /A02 )
+  ( 4 /A03 )
+  ( 5 /A04 )
+  ( 6 /A05 )
+ )
+ ( /4E8E6C62 SIL-8 P10 CONN_8
+  ( 1 /F00 )
+  ( 2 /F01 )
+  ( 3 /F02 )
+  ( 4 /F03 )
+  ( 5 /F04 )
+  ( 6 /F05 )
+  ( 7 /F06 )
+  ( 8 /F07 )
+ )
+ ( /4EDFC455 Grove-90-R0 P11 I2C
+  ( 1 /MOSI-D11 )
+  ( 2 /CCS-D10 )
+  ( 3 +5V )
+  ( 4 GND )
+ )
+ ( /4EDFC47B Grove-90-R0 P12 I2C
+  ( 1 /SCK-D13 )
+  ( 2 /MISO-D12 )
+  ( 3 +5V )
+  ( 4 GND )
+ )
+ ( /4E8E6C7C R3-1W R1 10K
+  ( 1 +5V )
+  ( 2 /CCS-D10 )
+ )
+ ( /4EA571B3 SJ_S_THREE_WAY SJ1 SJ_S_THREE_WAY
+  ( 1 /MOSI-3v3 )
+  ( 2 N-000053 )
+  ( 3 /MOSI-D11 )
+ )
+ ( /4EA57214 SJ_S_THREE_WAY SJ2 SJ_S_THREE_WAY
+  ( 1 /SCK-3v3 )
+  ( 2 N-000012 )
+  ( 3 /SCK-D13 )
+ )
+ ( /4EA5721B SJ_S_THREE_WAY SJ3 SJ_S_THREE_WAY
+  ( 1 /CCS-3v3 )
+  ( 2 N-000013 )
+  ( 3 /CCS-D10 )
+ )
+ ( /4E8E6C5B SJ_S_THREE_WAY SJ4 SJ_S_THREE_WAY
+  ( 1 N-000025 )
+  ( 2 +5V )
+  ( 3 +3.3V )
+ )
+ ( /4EDFC78B SJ_S_CUTTABLE SJ5 SJ_S_CUTTABLE
+  ( 1 /VSS1 )
+  ( 2 GND )
+ )
+ ( /4EDFC79D SJ_S_CUTTABLE SJ6 SJ_S_CUTTABLE
+  ( 1 /VSS2 )
+  ( 2 GND )
+ )
+ ( /4E8E6C77 TO92r U1 MCP1700
+  ( 1 GND )
+  ( 2 N-000025 )
+  ( 3 +3.3V )
+ )
+ ( /4E8E6C85 DIP-14__300 U2 74125N
+  ( 1 GND )
+  ( 2 /SCK-D13 )
+  ( 3 N-000012 )
+  ( 4 GND )
+  ( 5 /CCS-D10 )
+  ( 6 N-000013 )
+  ( 7 GND )
+  ( 8 N-000053 )
+  ( 9 /MOSI-D11 )
+  ( 10 GND )
+  ( 11 ? )
+  ( 12 ? )
+  ( 13 ? )
+  ( 14 +3.3V )
+ )
+ ( /4E8EF566 ARDUINO-SIELD-01 X1 ARDUINOSHIELD
+  ( 0 ? )
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 ? )
+  ( 3V3 /3V3 )
+  ( 4 ? )
+  ( 5 ? )
+  ( 5V +5V )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 /CCS-D10 )
+  ( 11 /MOSI-D11 )
+  ( 12 /MISO-D12 )
+  ( 13 /SCK-D13 )
+  ( AD0 ? )
+  ( AD1 ? )
+  ( AD2 ? )
+  ( AD3 ? )
+  ( AD4 ? )
+  ( AD5 ? )
+  ( AREF ? )
+  ( GND1 GND )
+  ( GND2 ? )
+  ( GND3 GND )
+  ( RST ? )
+  ( V_IN ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component G1
+ Logo-Samurai-Back
+ logo-Samurai
+$endlist
+$component P4
+ SIL-6
+ SIL-6-J-F
+ SIL-6-J-M
+ SIL-6-J-F-S
+ SIL-6-J-M-S
+$endlist
+$component P5
+ SIL-8
+ SIL-8-J-M
+ SIL-8-J-F
+ SIL-8-J-M-S
+ SIL-8-J-F-S
+$endlist
+$component P6
+ SIL-6
+ SIL-6-J-F
+ SIL-6-J-M
+ SIL-6-J-F-S
+ SIL-6-J-M-S
+$endlist
+$component P7
+ SIL-6
+ SIL-6-J-F
+ SIL-6-J-M
+ SIL-6-J-F-S
+ SIL-6-J-M-S
+$endlist
+$component P9
+ SIL-6
+ SIL-6-J-F
+ SIL-6-J-M
+ SIL-6-J-F-S
+ SIL-6-J-M-S
+$endlist
+$component P10
+ SIL-8
+ SIL-8-J-M
+ SIL-8-J-F
+ SIL-8-J-M-S
+ SIL-8-J-F-S
+$endlist
+$component P11
+ Seee-Grove-4-pin
+$endlist
+$component P12
+ Seee-Grove-4-pin
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R3-LARGE_PADS
+$endlist
+$component SJ1
+ SJ
+ SJ_S_THREE_WAY
+$endlist
+$component SJ2
+ SJ
+ SJ_S_THREE_WAY
+$endlist
+$component SJ3
+ SJ
+ SJ_S_THREE_WAY
+$endlist
+$component SJ4
+ SJ
+ SJ_S_THREE_WAY
+$endlist
+$component SJ5
+ SJ
+$endlist
+$component SJ6
+ SJ
+$endlist
+$component X1
+ ARDUINO-SHIELD
+$endlist
+$endfootprintlist
+}
